@@ -1,2 +1,2 @@
-# disaster_pred
-Disaster forecast using Time series, ML algorithms using Datasets like ACLED and GDELT
+
+Mand Made Disaster forecast using Time series, ML algorithms with Datasets like ACLED and GDELT
